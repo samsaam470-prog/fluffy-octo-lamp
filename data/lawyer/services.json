@@ -1,0 +1,242 @@
+[
+  {
+    "id": "LAW-SVC-001",
+    "service_name": "Business Formation Consultation",
+    "practice_area": "business law",
+    "consultation_fee": 150,
+    "currency": "USD",
+    "process_description": "Initial review of business structure options, general process overview, and checklist.",
+    "required_documents": [
+      "ID proof",
+      "business idea summary"
+    ]
+  },
+  {
+    "id": "LAW-SVC-002",
+    "service_name": "Contract Review - General",
+    "practice_area": "contracts",
+    "consultation_fee": 200,
+    "currency": "USD",
+    "process_description": "General information review of contract terms, common clauses, and review process.",
+    "required_documents": [
+      "contract draft",
+      "party details"
+    ]
+  },
+  {
+    "id": "LAW-SVC-003",
+    "service_name": "Contract Drafting Information Session",
+    "practice_area": "contracts",
+    "consultation_fee": 250,
+    "currency": "USD",
+    "process_description": "Session covering general elements typically included in contracts and drafting considerations.",
+    "required_documents": [
+      "purpose summary",
+      "term sheet"
+    ]
+  },
+  {
+    "id": "LAW-SVC-004",
+    "service_name": "Employment Policy Review",
+    "practice_area": "employment",
+    "consultation_fee": 180,
+    "currency": "USD",
+    "process_description": "Information session on general employment policy components and compliance considerations.",
+    "required_documents": [
+      "policy draft",
+      "employee count"
+    ]
+  },
+  {
+    "id": "LAW-SVC-005",
+    "service_name": "Employee Handbook Consultation",
+    "practice_area": "employment",
+    "consultation_fee": 200,
+    "currency": "USD",
+    "process_description": "Overview of general topics covered in handbooks and process for development.",
+    "required_documents": [
+      "existing handbook",
+      "company overview"
+    ]
+  },
+  {
+    "id": "LAW-SVC-006",
+    "service_name": "Family Law Information Session",
+    "practice_area": "family law",
+    "consultation_fee": 150,
+    "currency": "USD",
+    "process_description": "General information about family law processes and preparation steps.",
+    "required_documents": [
+      "relevant documents",
+      "questions list"
+    ]
+  },
+  {
+    "id": "LAW-SVC-007",
+    "service_name": "Estate Planning Information Session",
+    "practice_area": "estate planning",
+    "consultation_fee": 180,
+    "currency": "USD",
+    "process_description": "General education on estate planning concepts like wills, powers of attorney, and document organization.",
+    "required_documents": [
+      "asset list",
+      "family information"
+    ]
+  },
+  {
+    "id": "LAW-SVC-008",
+    "service_name": "Real Estate Document Review",
+    "practice_area": "real estate law",
+    "consultation_fee": 200,
+    "currency": "USD",
+    "process_description": "General review process for real estate documents and common considerations.",
+    "required_documents": [
+      "property documents",
+      "transaction summary"
+    ]
+  },
+  {
+    "id": "LAW-SVC-009",
+    "service_name": "Landlord-Tenant Information Session",
+    "practice_area": "real estate law",
+    "consultation_fee": 120,
+    "currency": "USD",
+    "process_description": "General information on landlord-tenant topics and documentation.",
+    "required_documents": [
+      "lease agreement",
+      "correspondence"
+    ]
+  },
+  {
+    "id": "LAW-SVC-010",
+    "service_name": "Civil Dispute Intake",
+    "practice_area": "civil disputes",
+    "consultation_fee": 150,
+    "currency": "USD",
+    "process_description": "Initial intake and general information about civil dispute processes.",
+    "required_documents": [
+      "dispute summary",
+      "supporting documents"
+    ]
+  },
+  {
+    "id": "LAW-SVC-011",
+    "service_name": "Small Business Compliance Consultation",
+    "practice_area": "compliance",
+    "consultation_fee": 180,
+    "currency": "USD",
+    "process_description": "General overview of compliance considerations for small businesses.",
+    "required_documents": [
+      "business license",
+      "compliance questions"
+    ]
+  },
+  {
+    "id": "LAW-SVC-012",
+    "service_name": "Intellectual Property Information Session",
+    "practice_area": "intellectual property",
+    "consultation_fee": 200,
+    "currency": "USD",
+    "process_description": "General information about IP categories and protection processes.",
+    "required_documents": [
+      "creation description",
+      "registration history"
+    ]
+  },
+  {
+    "id": "LAW-SVC-013",
+    "service_name": "Trademark Search Guidance",
+    "practice_area": "intellectual property",
+    "consultation_fee": 180,
+    "currency": "USD",
+    "process_description": "General guidance on trademark search process and preparation.",
+    "required_documents": [
+      "proposed mark",
+      "goods/services description"
+    ]
+  },
+  {
+    "id": "LAW-SVC-014",
+    "service_name": "Non-Disclosure Agreement Session",
+    "practice_area": "contracts",
+    "consultation_fee": 150,
+    "currency": "USD",
+    "process_description": "General information about NDA purposes and typical clauses.",
+    "required_documents": [
+      "purpose",
+      "parties"
+    ]
+  },
+  {
+    "id": "LAW-SVC-015",
+    "service_name": "Partnership Agreement Information",
+    "practice_area": "business law",
+    "consultation_fee": 220,
+    "currency": "USD",
+    "process_description": "General information session on partnership agreement components.",
+    "required_documents": [
+      "partner details",
+      "business plan"
+    ]
+  },
+  {
+    "id": "LAW-SVC-016",
+    "service_name": "Lease Agreement Review Info",
+    "practice_area": "real estate law",
+    "consultation_fee": 160,
+    "currency": "USD",
+    "process_description": "General information on lease review process and key terms.",
+    "required_documents": [
+      "lease draft",
+      "property info"
+    ]
+  },
+  {
+    "id": "LAW-SVC-017",
+    "service_name": "Immigration Information Session - General",
+    "practice_area": "immigration information",
+    "consultation_fee": 120,
+    "currency": "USD",
+    "process_description": "General educational information about immigration processes and preparation.",
+    "required_documents": [
+      "personal documents",
+      "questions list"
+    ]
+  },
+  {
+    "id": "LAW-SVC-018",
+    "service_name": "Employment Contract Review Info",
+    "practice_area": "employment",
+    "consultation_fee": 180,
+    "currency": "USD",
+    "process_description": "General information about employment contract terms and review steps.",
+    "required_documents": [
+      "contract draft",
+      "job description"
+    ]
+  },
+  {
+    "id": "LAW-SVC-019",
+    "service_name": "Legal Document Organization Session",
+    "practice_area": "legal document review",
+    "consultation_fee": 100,
+    "currency": "USD",
+    "process_description": "Session on organizing legal documents and preparation for attorney review.",
+    "required_documents": [
+      "documents to organize",
+      "goals summary"
+    ]
+  },
+  {
+    "id": "LAW-SVC-020",
+    "service_name": "Business Contract Negotiation Prep",
+    "practice_area": "business law",
+    "consultation_fee": 250,
+    "currency": "USD",
+    "process_description": "General preparation session for contract negotiations, covering typical strategies and documentation.",
+    "required_documents": [
+      "contract",
+      "negotiation goals"
+    ]
+  }
+]

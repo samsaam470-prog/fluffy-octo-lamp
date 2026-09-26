@@ -1,0 +1,604 @@
+[
+  {
+    "id": "RE-001",
+    "type": "house",
+    "transaction": "sale",
+    "price": 280992,
+    "currency": "USD",
+    "location": "Parker Square, Austin, TX",
+    "bedrooms": 4,
+    "bathrooms": 2,
+    "area_sqft": 1487,
+    "amenities": [
+      "air conditioning",
+      "furnished",
+      "garden",
+      "pet-friendly"
+    ],
+    "description": "A house in Eastside Commons, Austin, TX suitable for sale. Features air conditioning, furnished, garden. Well-maintained fictional property for demo purposes.",
+    "availability": "available"
+  },
+  {
+    "id": "RE-002",
+    "type": "apartment",
+    "transaction": "rent",
+    "price": 2863,
+    "currency": "USD",
+    "location": "Maplewood District, Austin, TX",
+    "bedrooms": 3,
+    "bathrooms": 2,
+    "area_sqft": 3355,
+    "amenities": [
+      "garden",
+      "heating",
+      "gym",
+      "terrace"
+    ],
+    "description": "A apartment in Downtown Lofts, Austin, TX suitable for rent. Features garden, heating, gym. Well-maintained fictional property for demo purposes.",
+    "availability": "available"
+  },
+  {
+    "id": "RE-003",
+    "type": "townhouse",
+    "transaction": "rent",
+    "price": 2744,
+    "currency": "USD",
+    "location": "River North, Austin, TX",
+    "bedrooms": 4,
+    "bathrooms": 4,
+    "area_sqft": 729,
+    "amenities": [
+      "storage",
+      "pool",
+      "gym"
+    ],
+    "description": "A townhouse in Eastside Commons, Austin, TX suitable for rent. Features storage, pool, gym. Well-maintained fictional property for demo purposes.",
+    "availability": "available"
+  },
+  {
+    "id": "RE-004",
+    "type": "villa",
+    "transaction": "sale",
+    "price": 733815,
+    "currency": "USD",
+    "location": "Cedar Hills, Austin, TX",
+    "bedrooms": 0,
+    "bathrooms": 2,
+    "area_sqft": 1365,
+    "amenities": [
+      "elevator",
+      "garden",
+      "parking",
+      "gym",
+      "terrace",
+      "furnished",
+      "storage"
+    ],
+    "description": "A villa in Westfield, Austin, TX suitable for sale. Features elevator, garden, parking. Well-maintained fictional property for demo purposes.",
+    "availability": "available"
+  },
+  {
+    "id": "RE-005",
+    "type": "apartment",
+    "transaction": "sale",
+    "price": 795551,
+    "currency": "USD",
+    "location": "Oak Valley, Austin, TX",
+    "bedrooms": 1,
+    "bathrooms": 4,
+    "area_sqft": 815,
+    "amenities": [
+      "pool",
+      "air conditioning",
+      "balcony",
+      "terrace",
+      "security"
+    ],
+    "description": "A apartment in Westfield, Austin, TX suitable for sale. Features pool, air conditioning, balcony. Well-maintained fictional property for demo purposes.",
+    "availability": "available"
+  },
+  {
+    "id": "RE-006",
+    "type": "townhouse",
+    "transaction": "sale",
+    "price": 902794,
+    "currency": "USD",
+    "location": "Westfield, Austin, TX",
+    "bedrooms": 5,
+    "bathrooms": 1,
+    "area_sqft": 2551,
+    "amenities": [
+      "parking",
+      "gym",
+      "security",
+      "balcony",
+      "terrace"
+    ],
+    "description": "A townhouse in Hillcrest, Austin, TX suitable for sale. Features parking, gym, security. Well-maintained fictional property for demo purposes.",
+    "availability": "available"
+  },
+  {
+    "id": "RE-007",
+    "type": "commercial",
+    "transaction": "rent",
+    "price": 4368,
+    "currency": "USD",
+    "location": "River North, Austin, TX",
+    "bedrooms": 0,
+    "bathrooms": 1,
+    "area_sqft": 1836,
+    "amenities": [
+      "heating",
+      "garden",
+      "elevator"
+    ],
+    "description": "A commercial in Lakeside, Austin, TX suitable for rent. Features heating, garden, elevator. Well-maintained fictional property for demo purposes.",
+    "availability": "available"
+  },
+  {
+    "id": "RE-008",
+    "type": "villa",
+    "transaction": "rent",
+    "price": 2968,
+    "currency": "USD",
+    "location": "Eastside Commons, Austin, TX",
+    "bedrooms": 1,
+    "bathrooms": 4,
+    "area_sqft": 851,
+    "amenities": [
+      "garden",
+      "terrace",
+      "balcony",
+      "gym",
+      "heating",
+      "smart home",
+      "pool"
+    ],
+    "description": "A villa in Cedar Hills, Austin, TX suitable for rent. Features garden, terrace, balcony. Well-maintained fictional property for demo purposes.",
+    "availability": "available"
+  },
+  {
+    "id": "RE-009",
+    "type": "townhouse",
+    "transaction": "rent",
+    "price": 2677,
+    "currency": "USD",
+    "location": "Downtown Lofts, Austin, TX",
+    "bedrooms": 0,
+    "bathrooms": 1,
+    "area_sqft": 521,
+    "amenities": [
+      "elevator",
+      "pet-friendly",
+      "garden",
+      "gym",
+      "pool"
+    ],
+    "description": "A townhouse in Cedar Hills, Austin, TX suitable for rent. Features elevator, pet-friendly, garden. Well-maintained fictional property for demo purposes.",
+    "availability": "available"
+  },
+  {
+    "id": "RE-010",
+    "type": "townhouse",
+    "transaction": "rent",
+    "price": 3481,
+    "currency": "USD",
+    "location": "Downtown Lofts, Austin, TX",
+    "bedrooms": 4,
+    "bathrooms": 4,
+    "area_sqft": 923,
+    "amenities": [
+      "gym",
+      "pet-friendly",
+      "furnished"
+    ],
+    "description": "A townhouse in Hillcrest, Austin, TX suitable for rent. Features gym, pet-friendly, furnished. Well-maintained fictional property for demo purposes.",
+    "availability": "available"
+  },
+  {
+    "id": "RE-011",
+    "type": "commercial",
+    "transaction": "rent",
+    "price": 4737,
+    "currency": "USD",
+    "location": "Downtown Lofts, Austin, TX",
+    "bedrooms": 0,
+    "bathrooms": 1,
+    "area_sqft": 2077,
+    "amenities": [
+      "garden",
+      "security",
+      "terrace"
+    ],
+    "description": "A commercial in Oak Valley, Austin, TX suitable for rent. Features garden, security, terrace. Well-maintained fictional property for demo purposes.",
+    "availability": "available"
+  },
+  {
+    "id": "RE-012",
+    "type": "house",
+    "transaction": "sale",
+    "price": 898605,
+    "currency": "USD",
+    "location": "Cedar Hills, Austin, TX",
+    "bedrooms": 3,
+    "bathrooms": 2,
+    "area_sqft": 1068,
+    "amenities": [
+      "garden",
+      "smart home",
+      "elevator",
+      "pool",
+      "gym"
+    ],
+    "description": "A house in Eastside Commons, Austin, TX suitable for sale. Features garden, smart home, elevator. Well-maintained fictional property for demo purposes.",
+    "availability": "available"
+  },
+  {
+    "id": "RE-013",
+    "type": "villa",
+    "transaction": "rent",
+    "price": 2427,
+    "currency": "USD",
+    "location": "Hillcrest, Austin, TX",
+    "bedrooms": 3,
+    "bathrooms": 1,
+    "area_sqft": 1979,
+    "amenities": [
+      "balcony",
+      "storage",
+      "heating",
+      "elevator",
+      "air conditioning"
+    ],
+    "description": "A villa in Lakeside, Austin, TX suitable for rent. Features balcony, storage, heating. Well-maintained fictional property for demo purposes.",
+    "availability": "available"
+  },
+  {
+    "id": "RE-014",
+    "type": "townhouse",
+    "transaction": "sale",
+    "price": 322071,
+    "currency": "USD",
+    "location": "Westfield, Austin, TX",
+    "bedrooms": 2,
+    "bathrooms": 1,
+    "area_sqft": 2120,
+    "amenities": [
+      "smart home",
+      "air conditioning",
+      "security",
+      "pet-friendly",
+      "elevator"
+    ],
+    "description": "A townhouse in Eastside Commons, Austin, TX suitable for sale. Features smart home, air conditioning, security. Well-maintained fictional property for demo purposes.",
+    "availability": "available"
+  },
+  {
+    "id": "RE-015",
+    "type": "commercial",
+    "transaction": "sale",
+    "price": 495029,
+    "currency": "USD",
+    "location": "Parker Square, Austin, TX",
+    "bedrooms": 0,
+    "bathrooms": 1,
+    "area_sqft": 1813,
+    "amenities": [
+      "storage",
+      "balcony",
+      "elevator",
+      "pet-friendly",
+      "pool",
+      "security",
+      "heating"
+    ],
+    "description": "A commercial in River North, Austin, TX suitable for sale. Features storage, balcony, elevator. Well-maintained fictional property for demo purposes.",
+    "availability": "available"
+  },
+  {
+    "id": "RE-016",
+    "type": "commercial",
+    "transaction": "sale",
+    "price": 521716,
+    "currency": "USD",
+    "location": "Hillcrest, Austin, TX",
+    "bedrooms": 0,
+    "bathrooms": 1,
+    "area_sqft": 2040,
+    "amenities": [
+      "smart home",
+      "terrace",
+      "security",
+      "pet-friendly",
+      "gym"
+    ],
+    "description": "A commercial in Lakeside, Austin, TX suitable for sale. Features smart home, terrace, security. Well-maintained fictional property for demo purposes.",
+    "availability": "available"
+  },
+  {
+    "id": "RE-017",
+    "type": "commercial",
+    "transaction": "sale",
+    "price": 894827,
+    "currency": "USD",
+    "location": "Eastside Commons, Austin, TX",
+    "bedrooms": 0,
+    "bathrooms": 1,
+    "area_sqft": 3644,
+    "amenities": [
+      "parking",
+      "storage",
+      "elevator",
+      "balcony",
+      "terrace",
+      "garden",
+      "gym"
+    ],
+    "description": "A commercial in River North, Austin, TX suitable for sale. Features parking, storage, elevator. Well-maintained fictional property for demo purposes.",
+    "availability": "available"
+  },
+  {
+    "id": "RE-018",
+    "type": "house",
+    "transaction": "rent",
+    "price": 2191,
+    "currency": "USD",
+    "location": "Hillcrest, Austin, TX",
+    "bedrooms": 2,
+    "bathrooms": 2,
+    "area_sqft": 3429,
+    "amenities": [
+      "terrace",
+      "security",
+      "gym",
+      "elevator",
+      "air conditioning",
+      "heating"
+    ],
+    "description": "A house in Eastside Commons, Austin, TX suitable for rent. Features terrace, security, gym. Well-maintained fictional property for demo purposes.",
+    "availability": "available"
+  },
+  {
+    "id": "RE-019",
+    "type": "commercial",
+    "transaction": "rent",
+    "price": 3426,
+    "currency": "USD",
+    "location": "Downtown Lofts, Austin, TX",
+    "bedrooms": 0,
+    "bathrooms": 1,
+    "area_sqft": 650,
+    "amenities": [
+      "storage",
+      "terrace",
+      "furnished",
+      "air conditioning",
+      "gym"
+    ],
+    "description": "A commercial in Lakeside, Austin, TX suitable for rent. Features storage, terrace, furnished. Well-maintained fictional property for demo purposes.",
+    "availability": "available"
+  },
+  {
+    "id": "RE-020",
+    "type": "villa",
+    "transaction": "sale",
+    "price": 858428,
+    "currency": "USD",
+    "location": "Parker Square, Austin, TX",
+    "bedrooms": 4,
+    "bathrooms": 1,
+    "area_sqft": 2806,
+    "amenities": [
+      "terrace",
+      "pet-friendly",
+      "security",
+      "gym",
+      "parking",
+      "heating"
+    ],
+    "description": "A villa in Lakeside, Austin, TX suitable for sale. Features terrace, pet-friendly, security. Well-maintained fictional property for demo purposes.",
+    "availability": "available"
+  },
+  {
+    "id": "RE-021",
+    "type": "commercial",
+    "transaction": "sale",
+    "price": 647432,
+    "currency": "USD",
+    "location": "Westfield, Austin, TX",
+    "bedrooms": 0,
+    "bathrooms": 1,
+    "area_sqft": 2032,
+    "amenities": [
+      "elevator",
+      "terrace",
+      "heating",
+      "air conditioning",
+      "furnished",
+      "pool"
+    ],
+    "description": "A commercial in Maplewood District, Austin, TX suitable for sale. Features elevator, terrace, heating. Well-maintained fictional property for demo purposes.",
+    "availability": "available"
+  },
+  {
+    "id": "RE-022",
+    "type": "townhouse",
+    "transaction": "sale",
+    "price": 489783,
+    "currency": "USD",
+    "location": "Lakeside, Austin, TX",
+    "bedrooms": 3,
+    "bathrooms": 1,
+    "area_sqft": 975,
+    "amenities": [
+      "pet-friendly",
+      "garden",
+      "smart home",
+      "elevator"
+    ],
+    "description": "A townhouse in Oak Valley, Austin, TX suitable for sale. Features pet-friendly, garden, smart home. Well-maintained fictional property for demo purposes.",
+    "availability": "available"
+  },
+  {
+    "id": "RE-023",
+    "type": "townhouse",
+    "transaction": "rent",
+    "price": 3150,
+    "currency": "USD",
+    "location": "Westfield, Austin, TX",
+    "bedrooms": 0,
+    "bathrooms": 4,
+    "area_sqft": 3457,
+    "amenities": [
+      "pet-friendly",
+      "gym",
+      "garden",
+      "parking",
+      "terrace",
+      "heating"
+    ],
+    "description": "A townhouse in Downtown Lofts, Austin, TX suitable for rent. Features pet-friendly, gym, garden. Well-maintained fictional property for demo purposes.",
+    "availability": "available"
+  },
+  {
+    "id": "RE-024",
+    "type": "house",
+    "transaction": "sale",
+    "price": 721058,
+    "currency": "USD",
+    "location": "Eastside Commons, Austin, TX",
+    "bedrooms": 1,
+    "bathrooms": 2,
+    "area_sqft": 1855,
+    "amenities": [
+      "security",
+      "elevator",
+      "balcony",
+      "smart home",
+      "pool",
+      "air conditioning",
+      "heating"
+    ],
+    "description": "A house in Maplewood District, Austin, TX suitable for sale. Features security, elevator, balcony. Well-maintained fictional property for demo purposes.",
+    "availability": "available"
+  },
+  {
+    "id": "RE-025",
+    "type": "commercial",
+    "transaction": "sale",
+    "price": 651413,
+    "currency": "USD",
+    "location": "Downtown Lofts, Austin, TX",
+    "bedrooms": 0,
+    "bathrooms": 1,
+    "area_sqft": 2925,
+    "amenities": [
+      "security",
+      "parking",
+      "storage",
+      "balcony",
+      "heating",
+      "garden"
+    ],
+    "description": "A commercial in Hillcrest, Austin, TX suitable for sale. Features security, parking, storage. Well-maintained fictional property for demo purposes.",
+    "availability": "available"
+  },
+  {
+    "id": "RE-026",
+    "type": "apartment",
+    "transaction": "sale",
+    "price": 563561,
+    "currency": "USD",
+    "location": "Oak Valley, Austin, TX",
+    "bedrooms": 2,
+    "bathrooms": 2,
+    "area_sqft": 2374,
+    "amenities": [
+      "garden",
+      "heating",
+      "elevator"
+    ],
+    "description": "A apartment in Westfield, Austin, TX suitable for sale. Features garden, heating, elevator. Well-maintained fictional property for demo purposes.",
+    "availability": "available"
+  },
+  {
+    "id": "RE-027",
+    "type": "commercial",
+    "transaction": "rent",
+    "price": 3703,
+    "currency": "USD",
+    "location": "Hillcrest, Austin, TX",
+    "bedrooms": 0,
+    "bathrooms": 1,
+    "area_sqft": 2107,
+    "amenities": [
+      "gym",
+      "pet-friendly",
+      "terrace",
+      "elevator",
+      "air conditioning",
+      "pool",
+      "garden"
+    ],
+    "description": "A commercial in Hillcrest, Austin, TX suitable for rent. Features gym, pet-friendly, terrace. Well-maintained fictional property for demo purposes.",
+    "availability": "available"
+  },
+  {
+    "id": "RE-028",
+    "type": "apartment",
+    "transaction": "sale",
+    "price": 508399,
+    "currency": "USD",
+    "location": "Cedar Hills, Austin, TX",
+    "bedrooms": 0,
+    "bathrooms": 2,
+    "area_sqft": 1750,
+    "amenities": [
+      "pool",
+      "pet-friendly",
+      "storage"
+    ],
+    "description": "A apartment in Oak Valley, Austin, TX suitable for sale. Features pool, pet-friendly, storage. Well-maintained fictional property for demo purposes.",
+    "availability": "available"
+  },
+  {
+    "id": "RE-029",
+    "type": "townhouse",
+    "transaction": "rent",
+    "price": 3642,
+    "currency": "USD",
+    "location": "Cedar Hills, Austin, TX",
+    "bedrooms": 1,
+    "bathrooms": 4,
+    "area_sqft": 2232,
+    "amenities": [
+      "elevator",
+      "heating",
+      "furnished",
+      "terrace"
+    ],
+    "description": "A townhouse in Oak Valley, Austin, TX suitable for rent. Features elevator, heating, furnished. Well-maintained fictional property for demo purposes.",
+    "availability": "available"
+  },
+  {
+    "id": "RE-030",
+    "type": "house",
+    "transaction": "rent",
+    "price": 2383,
+    "currency": "USD",
+    "location": "Lakeside, Austin, TX",
+    "bedrooms": 1,
+    "bathrooms": 2,
+    "area_sqft": 1788,
+    "amenities": [
+      "air conditioning",
+      "parking",
+      "pet-friendly",
+      "terrace",
+      "elevator",
+      "pool"
+    ],
+    "description": "A house in Eastside Commons, Austin, TX suitable for rent. Features air conditioning, parking, pet-friendly. Well-maintained fictional property for demo purposes.",
+    "availability": "available"
+  }
+]

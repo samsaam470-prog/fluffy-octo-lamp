@@ -1,0 +1,202 @@
+[
+  {
+    "id": "DENT-SVC-001",
+    "name": "Dental Cleaning",
+    "description": "Professional removal of plaque, tartar and surface stains to maintain gum health.",
+    "price": 120,
+    "currency": "USD",
+    "duration_minutes": 45,
+    "availability": "Monday-Saturday 8am-6pm",
+    "related_info": "Includes polishing and oral hygiene tips."
+  },
+  {
+    "id": "DENT-SVC-002",
+    "name": "Dental Examination",
+    "description": "Comprehensive oral examination including visual inspection and charting.",
+    "price": 80,
+    "currency": "USD",
+    "duration_minutes": 30,
+    "availability": "Monday-Saturday 8am-6pm",
+    "related_info": "Recommended every 6 months."
+  },
+  {
+    "id": "DENT-SVC-003",
+    "name": "Dental X-Ray",
+    "description": "Digital low-dose X-rays to detect cavities, bone loss and hidden issues.",
+    "price": 60,
+    "currency": "USD",
+    "duration_minutes": 15,
+    "availability": "Monday-Saturday 8am-6pm",
+    "related_info": "Digital images available immediately."
+  },
+  {
+    "id": "DENT-SVC-004",
+    "name": "Filling - Composite",
+    "description": "Tooth-colored composite filling for cavities and minor damage.",
+    "price": 150,
+    "currency": "USD",
+    "duration_minutes": 45,
+    "availability": "Monday-Saturday",
+    "related_info": "Material matched to tooth shade."
+  },
+  {
+    "id": "DENT-SVC-005",
+    "name": "Root Canal Treatment",
+    "description": "Treatment to remove infected pulp and seal the tooth to prevent further infection.",
+    "price": 650,
+    "currency": "USD",
+    "duration_minutes": 90,
+    "availability": "Monday-Friday",
+    "related_info": "Often requires crown afterwards."
+  },
+  {
+    "id": "DENT-SVC-006",
+    "name": "Dental Crown",
+    "description": "Custom-made crown to restore damaged or weakened tooth.",
+    "price": 550,
+    "currency": "USD",
+    "duration_minutes": 75,
+    "availability": "Monday-Friday",
+    "related_info": "Available in porcelain and zirconia."
+  },
+  {
+    "id": "DENT-SVC-007",
+    "name": "Dental Bridge",
+    "description": "Fixed bridge to replace one or more missing teeth using adjacent teeth support.",
+    "price": 900,
+    "currency": "USD",
+    "duration_minutes": 90,
+    "availability": "Monday-Friday",
+    "related_info": "Requires two visits for fitting."
+  },
+  {
+    "id": "DENT-SVC-008",
+    "name": "Tooth Extraction",
+    "description": "Safe removal of damaged or non-restorable tooth.",
+    "price": 180,
+    "currency": "USD",
+    "duration_minutes": 40,
+    "availability": "Monday-Saturday",
+    "related_info": "Includes aftercare instructions."
+  },
+  {
+    "id": "DENT-SVC-009",
+    "name": "Wisdom Tooth Evaluation",
+    "description": "Assessment of wisdom teeth position, risks and treatment options.",
+    "price": 90,
+    "currency": "USD",
+    "duration_minutes": 30,
+    "availability": "Monday-Friday",
+    "related_info": "Panoramic X-ray may be recommended."
+  },
+  {
+    "id": "DENT-SVC-010",
+    "name": "Teeth Whitening",
+    "description": "Professional whitening for brighter smile.",
+    "price": 250,
+    "currency": "USD",
+    "duration_minutes": 60,
+    "availability": "Monday-Saturday",
+    "related_info": "In-office treatment."
+  },
+  {
+    "id": "DENT-SVC-011",
+    "name": "Dental Emergency Consultation",
+    "description": "Same-day consultation for pain, swelling or trauma.",
+    "price": 100,
+    "currency": "USD",
+    "duration_minutes": 30,
+    "availability": "Monday-Saturday emergency slots",
+    "related_info": "Call clinic for priority scheduling."
+  },
+  {
+    "id": "DENT-SVC-012",
+    "name": "Gum Treatment - Scaling and Root Planing",
+    "description": "Deep cleaning for gum disease to remove bacteria below gumline.",
+    "price": 280,
+    "currency": "USD",
+    "duration_minutes": 60,
+    "availability": "Monday-Friday",
+    "related_info": "May require multiple quadrants."
+  },
+  {
+    "id": "DENT-SVC-013",
+    "name": "Children's Dental Visit",
+    "description": "Gentle checkup and cleaning tailored for children.",
+    "price": 90,
+    "currency": "USD",
+    "duration_minutes": 35,
+    "availability": "Monday-Saturday",
+    "related_info": "Parent presence encouraged."
+  },
+  {
+    "id": "DENT-SVC-014",
+    "name": "Night Guard - Custom",
+    "description": "Custom-fitted guard to protect teeth from grinding.",
+    "price": 220,
+    "currency": "USD",
+    "duration_minutes": 40,
+    "availability": "Monday-Friday",
+    "related_info": "Impressions taken at first visit."
+  },
+  {
+    "id": "DENT-SVC-015",
+    "name": "Retainer - Consultation and Fitting",
+    "description": "Consultation and fitting for orthodontic retainers.",
+    "price": 200,
+    "currency": "USD",
+    "duration_minutes": 35,
+    "availability": "Monday-Friday",
+    "related_info": "Includes care instructions."
+  },
+  {
+    "id": "DENT-SVC-016",
+    "name": "Denture Consultation",
+    "description": "Evaluation and planning for full or partial dentures.",
+    "price": 110,
+    "currency": "USD",
+    "duration_minutes": 45,
+    "availability": "Monday-Friday",
+    "related_info": "Options discussed for fit and materials."
+  },
+  {
+    "id": "DENT-SVC-017",
+    "name": "Implant Consultation",
+    "description": "Initial evaluation for dental implants including bone and health review.",
+    "price": 130,
+    "currency": "USD",
+    "duration_minutes": 60,
+    "availability": "Monday-Friday",
+    "related_info": "Does not include implant placement cost."
+  },
+  {
+    "id": "DENT-SVC-018",
+    "name": "Veneer Consultation",
+    "description": "Cosmetic consultation for porcelain veneers.",
+    "price": 120,
+    "currency": "USD",
+    "duration_minutes": 45,
+    "availability": "Monday-Friday",
+    "related_info": "Smile preview discussion."
+  },
+  {
+    "id": "DENT-SVC-019",
+    "name": "Fluoride Treatment",
+    "description": "Topical fluoride application to strengthen enamel.",
+    "price": 45,
+    "currency": "USD",
+    "duration_minutes": 15,
+    "availability": "Monday-Saturday",
+    "related_info": "Often combined with cleaning."
+  },
+  {
+    "id": "DENT-SVC-020",
+    "name": "Dental Sealant",
+    "description": "Protective coating for molars to prevent cavities.",
+    "price": 55,
+    "currency": "USD",
+    "duration_minutes": 20,
+    "availability": "Monday-Saturday",
+    "related_info": "Common for children and teens."
+  }
+]

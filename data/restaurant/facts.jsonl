@@ -1,0 +1,120 @@
+{"id": "REST-FACT-001", "topic": "appetizers", "fact": "Menu item REST-MENU-003 Spinach Artichoke Dip is available and costs 6.68 USD. Category appetizers.", "related_ids": ["REST-MENU-003"]}
+{"id": "REST-FACT-002", "topic": "pasta", "fact": "Menu item REST-MENU-022 Pesto Pasta is available and costs 12.13 USD. Category pasta.", "related_ids": ["REST-MENU-022"]}
+{"id": "REST-FACT-003", "topic": "rice dishes", "fact": "Menu item REST-MENU-023 Chicken Fried Rice is available and costs 8.26 USD. Category rice dishes.", "related_ids": ["REST-MENU-023"]}
+{"id": "REST-FACT-004", "topic": "desserts", "fact": "Menu item REST-MENU-036 Tiramisu is available and costs 21.32 USD. Category desserts.", "related_ids": ["REST-MENU-036"]}
+{"id": "REST-FACT-005", "topic": "beverages", "fact": "Menu item REST-MENU-041 Berry Smoothie is available and costs 14.72 USD. Category beverages.", "related_ids": ["REST-MENU-018"]}
+{"id": "REST-FACT-006", "topic": "burgers", "fact": "Menu item REST-MENU-014 BBQ Bacon Burger is available and costs 17.5 USD. Category burgers.", "related_ids": ["REST-MENU-014"]}
+{"id": "REST-FACT-007", "topic": "appetizers", "fact": "Menu item REST-MENU-001 Crispy Garlic Bread is available and costs 20.38 USD. Category appetizers.", "related_ids": ["REST-MENU-001"]}
+{"id": "REST-FACT-008", "topic": "beverages", "fact": "Menu item REST-MENU-041 Berry Smoothie is available and costs 14.72 USD. Category beverages.", "related_ids": ["REST-MENU-016"]}
+{"id": "REST-FACT-009", "topic": "burgers", "fact": "Menu item REST-MENU-013 Veggie Burger is available and costs 19.36 USD. Category burgers.", "related_ids": ["REST-MENU-013"]}
+{"id": "REST-FACT-010", "topic": "pasta", "fact": "Menu item REST-MENU-019 Spaghetti Bolognese is available and costs 13.56 USD. Category pasta.", "related_ids": ["REST-MENU-019"]}
+{"id": "REST-FACT-011", "topic": "sandwiches", "fact": "Menu item REST-MENU-017 Grilled Cheese Deluxe is available and costs 18.46 USD. Category sandwiches.", "related_ids": ["REST-MENU-017"]}
+{"id": "REST-FACT-012", "topic": "salads", "fact": "Menu item REST-MENU-005 Caesar Salad is available and costs 17.87 USD. Category salads.", "related_ids": ["REST-MENU-005"]}
+{"id": "REST-FACT-013", "topic": "pasta", "fact": "Menu item REST-MENU-020 Fettuccine Alfredo is seasonal and costs 12.73 USD. Category pasta.", "related_ids": ["REST-MENU-020"]}
+{"id": "REST-FACT-014", "topic": "pasta", "fact": "Menu item REST-MENU-020 Fettuccine Alfredo is seasonal and costs 12.73 USD. Category pasta.", "related_ids": ["REST-MENU-020"]}
+{"id": "REST-FACT-015", "topic": "main courses", "fact": "Menu item REST-MENU-033 Eggplant Parmesan is available and costs 24.67 USD. Category main courses.", "related_ids": ["REST-MENU-033"]}
+{"id": "REST-FACT-016", "topic": "desserts", "fact": "Menu item REST-MENU-036 Tiramisu is available and costs 21.32 USD. Category desserts.", "related_ids": ["REST-MENU-036"]}
+{"id": "REST-FACT-017", "topic": "pasta", "fact": "Menu item REST-MENU-021 Penne Arrabbiata is available and costs 8.86 USD. Category pasta.", "related_ids": ["REST-MENU-021"]}
+{"id": "REST-FACT-018", "topic": "appetizers", "fact": "Menu item REST-MENU-001 Crispy Garlic Bread is available and costs 20.38 USD. Category appetizers.", "related_ids": ["REST-MENU-001"]}
+{"id": "REST-FACT-019", "topic": "salads", "fact": "Menu item REST-MENU-008 Caprese Salad is available and costs 13.35 USD. Category salads.", "related_ids": ["REST-MENU-008"]}
+{"id": "REST-FACT-020", "topic": "pasta", "fact": "Menu item REST-MENU-022 Pesto Pasta is available and costs 12.13 USD. Category pasta.", "related_ids": ["REST-MENU-022"]}
+{"id": "REST-FACT-021", "topic": "pasta", "fact": "Menu item REST-MENU-022 Pesto Pasta is available and costs 12.13 USD. Category pasta.", "related_ids": ["REST-MENU-022"]}
+{"id": "REST-FACT-022", "topic": "pizza", "fact": "Menu item REST-MENU-026 Margherita Pizza is available and costs 8.82 USD. Category pizza.", "related_ids": ["REST-MENU-026"]}
+{"id": "REST-FACT-023", "topic": "desserts", "fact": "Menu item REST-MENU-037 Fruit Parfait is available and costs 8.32 USD. Category desserts.", "related_ids": ["REST-MENU-037"]}
+{"id": "REST-FACT-024", "topic": "beverages", "fact": "Menu item REST-MENU-040 Cappuccino is available and costs 7.03 USD. Category beverages.", "related_ids": ["REST-MENU-040"]}
+{"id": "REST-FACT-025", "topic": "appetizers", "fact": "Menu item REST-MENU-002 Bruschetta Trio is available and costs 15.57 USD. Category appetizers.", "related_ids": ["REST-MENU-002"]}
+{"id": "REST-FACT-026", "topic": "burgers", "fact": "Menu item REST-MENU-012 Classic Beef Burger is available and costs 13.07 USD. Category burgers.", "related_ids": ["REST-MENU-012"]}
+{"id": "REST-FACT-027", "topic": "burgers", "fact": "Menu item REST-MENU-013 Veggie Burger is available and costs 19.36 USD. Category burgers.", "related_ids": ["REST-MENU-013"]}
+{"id": "REST-FACT-028", "topic": "pasta", "fact": "Menu item REST-MENU-022 Pesto Pasta is available and costs 12.13 USD. Category pasta.", "related_ids": ["REST-MENU-022"]}
+{"id": "REST-FACT-029", "topic": "pasta", "fact": "Menu item REST-MENU-022 Pesto Pasta is available and costs 12.13 USD. Category pasta.", "related_ids": ["REST-MENU-022"]}
+{"id": "REST-FACT-030", "topic": "main courses", "fact": "Menu item REST-MENU-031 Lemon Herb Chicken is available and costs 17.75 USD. Category main courses.", "related_ids": ["REST-MENU-031"]}
+{"id": "REST-FACT-031", "topic": "main courses", "fact": "Menu item REST-MENU-031 Lemon Herb Chicken is available and costs 17.75 USD. Category main courses.", "related_ids": ["REST-MENU-031"]}
+{"id": "REST-FACT-032", "topic": "appetizers", "fact": "Menu item REST-MENU-003 Spinach Artichoke Dip is available and costs 6.68 USD. Category appetizers.", "related_ids": ["REST-MENU-003"]}
+{"id": "REST-FACT-033", "topic": "soups", "fact": "Menu item REST-MENU-009 Tomato Basil Soup is available and costs 8.07 USD. Category soups.", "related_ids": ["REST-MENU-009"]}
+{"id": "REST-FACT-034", "topic": "main courses", "fact": "Menu item REST-MENU-031 Lemon Herb Chicken is available and costs 17.75 USD. Category main courses.", "related_ids": ["REST-MENU-031"]}
+{"id": "REST-FACT-035", "topic": "soups", "fact": "Menu item REST-MENU-010 Chicken Noodle Soup is available and costs 11.94 USD. Category soups.", "related_ids": ["REST-MENU-010"]}
+{"id": "REST-FACT-036", "topic": "beverages", "fact": "Menu item REST-MENU-041 Berry Smoothie is available and costs 14.72 USD. Category beverages.", "related_ids": ["REST-MENU-015"]}
+{"id": "REST-FACT-037", "topic": "main courses", "fact": "Menu item REST-MENU-030 Grilled Salmon is available and costs 13.11 USD. Category main courses.", "related_ids": ["REST-MENU-030"]}
+{"id": "REST-FACT-038", "topic": "desserts", "fact": "Menu item REST-MENU-035 Cheesecake is available and costs 6.75 USD. Category desserts.", "related_ids": ["REST-MENU-035"]}
+{"id": "REST-FACT-039", "topic": "pasta", "fact": "Menu item REST-MENU-022 Pesto Pasta is available and costs 12.13 USD. Category pasta.", "related_ids": ["REST-MENU-022"]}
+{"id": "REST-FACT-040", "topic": "main courses", "fact": "Menu item REST-MENU-030 Grilled Salmon is available and costs 13.11 USD. Category main courses.", "related_ids": ["REST-MENU-030"]}
+{"id": "REST-FACT-041", "topic": "pizza", "fact": "Menu item REST-MENU-027 Pepperoni Pizza is available and costs 13.93 USD. Category pizza.", "related_ids": ["REST-MENU-027"]}
+{"id": "REST-FACT-042", "topic": "appetizers", "fact": "Menu item REST-MENU-004 Chicken Wings is available and costs 25.91 USD. Category appetizers.", "related_ids": ["REST-MENU-004"]}
+{"id": "REST-FACT-043", "topic": "desserts", "fact": "Menu item REST-MENU-034 Chocolate Lava Cake is available and costs 26.78 USD. Category desserts.", "related_ids": ["REST-MENU-034"]}
+{"id": "REST-FACT-044", "topic": "pasta", "fact": "Menu item REST-MENU-020 Fettuccine Alfredo is seasonal and costs 12.73 USD. Category pasta.", "related_ids": ["REST-MENU-020"]}
+{"id": "REST-FACT-045", "topic": "desserts", "fact": "Menu item REST-MENU-037 Fruit Parfait is available and costs 8.32 USD. Category desserts.", "related_ids": ["REST-MENU-037"]}
+{"id": "REST-FACT-046", "topic": "pasta", "fact": "Menu item REST-MENU-021 Penne Arrabbiata is available and costs 8.86 USD. Category pasta.", "related_ids": ["REST-MENU-021"]}
+{"id": "REST-FACT-047", "topic": "desserts", "fact": "Menu item REST-MENU-036 Tiramisu is available and costs 21.32 USD. Category desserts.", "related_ids": ["REST-MENU-036"]}
+{"id": "REST-FACT-048", "topic": "desserts", "fact": "Menu item REST-MENU-035 Cheesecake is available and costs 6.75 USD. Category desserts.", "related_ids": ["REST-MENU-035"]}
+{"id": "REST-FACT-049", "topic": "appetizers", "fact": "Menu item REST-MENU-002 Bruschetta Trio is available and costs 15.57 USD. Category appetizers.", "related_ids": ["REST-MENU-002"]}
+{"id": "REST-FACT-050", "topic": "burgers", "fact": "Menu item REST-MENU-014 BBQ Bacon Burger is available and costs 17.5 USD. Category burgers.", "related_ids": ["REST-MENU-014"]}
+{"id": "REST-FACT-051", "topic": "desserts", "fact": "Menu item REST-MENU-037 Fruit Parfait is available and costs 8.32 USD. Category desserts.", "related_ids": ["REST-MENU-037"]}
+{"id": "REST-FACT-052", "topic": "pasta", "fact": "Menu item REST-MENU-022 Pesto Pasta is available and costs 12.13 USD. Category pasta.", "related_ids": ["REST-MENU-022"]}
+{"id": "REST-FACT-053", "topic": "rice dishes", "fact": "Menu item REST-MENU-023 Chicken Fried Rice is available and costs 8.26 USD. Category rice dishes.", "related_ids": ["REST-MENU-023"]}
+{"id": "REST-FACT-054", "topic": "salads", "fact": "Menu item REST-MENU-005 Caesar Salad is available and costs 17.87 USD. Category salads.", "related_ids": ["REST-MENU-005"]}
+{"id": "REST-FACT-055", "topic": "soups", "fact": "Menu item REST-MENU-010 Chicken Noodle Soup is available and costs 11.94 USD. Category soups.", "related_ids": ["REST-MENU-010"]}
+{"id": "REST-FACT-056", "topic": "sandwiches", "fact": "Menu item REST-MENU-018 Chicken Pesto Panini is available and costs 18.42 USD. Category sandwiches.", "related_ids": ["REST-MENU-018"]}
+{"id": "REST-FACT-057", "topic": "appetizers", "fact": "Menu item REST-MENU-002 Bruschetta Trio is available and costs 15.57 USD. Category appetizers.", "related_ids": ["REST-MENU-002"]}
+{"id": "REST-FACT-058", "topic": "pasta", "fact": "Menu item REST-MENU-022 Pesto Pasta is available and costs 12.13 USD. Category pasta.", "related_ids": ["REST-MENU-022"]}
+{"id": "REST-FACT-059", "topic": "rice dishes", "fact": "Menu item REST-MENU-025 Teriyaki Rice Bowl is available and costs 11.58 USD. Category rice dishes.", "related_ids": ["REST-MENU-025"]}
+{"id": "REST-FACT-060", "topic": "beverages", "fact": "Menu item REST-MENU-041 Berry Smoothie is available and costs 14.72 USD. Category beverages.", "related_ids": ["REST-MENU-009"]}
+{"id": "REST-FACT-061", "topic": "desserts", "fact": "Menu item REST-MENU-035 Cheesecake is available and costs 6.75 USD. Category desserts.", "related_ids": ["REST-MENU-035"]}
+{"id": "REST-FACT-062", "topic": "soups", "fact": "Menu item REST-MENU-011 Mushroom Soup is available and costs 21.49 USD. Category soups.", "related_ids": ["REST-MENU-011"]}
+{"id": "REST-FACT-063", "topic": "desserts", "fact": "Menu item REST-MENU-037 Fruit Parfait is available and costs 8.32 USD. Category desserts.", "related_ids": ["REST-MENU-037"]}
+{"id": "REST-FACT-064", "topic": "beverages", "fact": "Menu item REST-MENU-039 Iced Tea is available and costs 8.08 USD. Category beverages.", "related_ids": ["REST-MENU-039"]}
+{"id": "REST-FACT-065", "topic": "rice dishes", "fact": "Menu item REST-MENU-025 Teriyaki Rice Bowl is available and costs 11.58 USD. Category rice dishes.", "related_ids": ["REST-MENU-025"]}
+{"id": "REST-FACT-066", "topic": "burgers", "fact": "Menu item REST-MENU-012 Classic Beef Burger is available and costs 13.07 USD. Category burgers.", "related_ids": ["REST-MENU-012"]}
+{"id": "REST-FACT-067", "topic": "beverages", "fact": "Menu item REST-MENU-039 Iced Tea is available and costs 8.08 USD. Category beverages.", "related_ids": ["REST-MENU-039"]}
+{"id": "REST-FACT-068", "topic": "salads", "fact": "Menu item REST-MENU-008 Caprese Salad is available and costs 13.35 USD. Category salads.", "related_ids": ["REST-MENU-008"]}
+{"id": "REST-FACT-069", "topic": "pasta", "fact": "Menu item REST-MENU-020 Fettuccine Alfredo is seasonal and costs 12.73 USD. Category pasta.", "related_ids": ["REST-MENU-020"]}
+{"id": "REST-FACT-070", "topic": "pasta", "fact": "Menu item REST-MENU-021 Penne Arrabbiata is available and costs 8.86 USD. Category pasta.", "related_ids": ["REST-MENU-021"]}
+{"id": "REST-FACT-071", "topic": "appetizers", "fact": "Menu item REST-MENU-003 Spinach Artichoke Dip is available and costs 6.68 USD. Category appetizers.", "related_ids": ["REST-MENU-003"]}
+{"id": "REST-FACT-072", "topic": "sandwiches", "fact": "Menu item REST-MENU-018 Chicken Pesto Panini is available and costs 18.42 USD. Category sandwiches.", "related_ids": ["REST-MENU-018"]}
+{"id": "REST-FACT-073", "topic": "pizza", "fact": "Menu item REST-MENU-027 Pepperoni Pizza is available and costs 13.93 USD. Category pizza.", "related_ids": ["REST-MENU-027"]}
+{"id": "REST-FACT-074", "topic": "salads", "fact": "Menu item REST-MENU-006 Greek Salad is available and costs 20.51 USD. Category salads.", "related_ids": ["REST-MENU-006"]}
+{"id": "REST-FACT-075", "topic": "main courses", "fact": "Menu item REST-MENU-032 Steak Frites is available and costs 12.14 USD. Category main courses.", "related_ids": ["REST-MENU-032"]}
+{"id": "REST-FACT-076", "topic": "sandwiches", "fact": "Menu item REST-MENU-016 Turkey Club Sandwich is available and costs 12.02 USD. Category sandwiches.", "related_ids": ["REST-MENU-016"]}
+{"id": "REST-FACT-077", "topic": "rice dishes", "fact": "Menu item REST-MENU-024 Veggie Fried Rice is available and costs 24.62 USD. Category rice dishes.", "related_ids": ["REST-MENU-024"]}
+{"id": "REST-FACT-078", "topic": "pizza", "fact": "Menu item REST-MENU-029 BBQ Chicken Pizza is available and costs 14.42 USD. Category pizza.", "related_ids": ["REST-MENU-029"]}
+{"id": "REST-FACT-079", "topic": "pasta", "fact": "Menu item REST-MENU-020 Fettuccine Alfredo is seasonal and costs 12.73 USD. Category pasta.", "related_ids": ["REST-MENU-020"]}
+{"id": "REST-FACT-080", "topic": "burgers", "fact": "Menu item REST-MENU-014 BBQ Bacon Burger is available and costs 17.5 USD. Category burgers.", "related_ids": ["REST-MENU-014"]}
+{"id": "REST-FACT-081", "topic": "desserts", "fact": "Menu item REST-MENU-034 Chocolate Lava Cake is available and costs 26.78 USD. Category desserts.", "related_ids": ["REST-MENU-034"]}
+{"id": "REST-FACT-082", "topic": "pasta", "fact": "Menu item REST-MENU-020 Fettuccine Alfredo is seasonal and costs 12.73 USD. Category pasta.", "related_ids": ["REST-MENU-020"]}
+{"id": "REST-FACT-083", "topic": "burgers", "fact": "Menu item REST-MENU-012 Classic Beef Burger is available and costs 13.07 USD. Category burgers.", "related_ids": ["REST-MENU-012"]}
+{"id": "REST-FACT-084", "topic": "salads", "fact": "Menu item REST-MENU-008 Caprese Salad is available and costs 13.35 USD. Category salads.", "related_ids": ["REST-MENU-008"]}
+{"id": "REST-FACT-085", "topic": "rice dishes", "fact": "Menu item REST-MENU-024 Veggie Fried Rice is available and costs 24.62 USD. Category rice dishes.", "related_ids": ["REST-MENU-024"]}
+{"id": "REST-FACT-086", "topic": "appetizers", "fact": "Menu item REST-MENU-003 Spinach Artichoke Dip is available and costs 6.68 USD. Category appetizers.", "related_ids": ["REST-MENU-003"]}
+{"id": "REST-FACT-087", "topic": "burgers", "fact": "Menu item REST-MENU-013 Veggie Burger is available and costs 19.36 USD. Category burgers.", "related_ids": ["REST-MENU-013"]}
+{"id": "REST-FACT-088", "topic": "salads", "fact": "Menu item REST-MENU-006 Greek Salad is available and costs 20.51 USD. Category salads.", "related_ids": ["REST-MENU-006"]}
+{"id": "REST-FACT-089", "topic": "pizza", "fact": "Menu item REST-MENU-029 BBQ Chicken Pizza is available and costs 14.42 USD. Category pizza.", "related_ids": ["REST-MENU-029"]}
+{"id": "REST-FACT-090", "topic": "main courses", "fact": "Menu item REST-MENU-033 Eggplant Parmesan is available and costs 24.67 USD. Category main courses.", "related_ids": ["REST-MENU-033"]}
+{"id": "REST-FACT-091", "topic": "appetizers", "fact": "Menu item REST-MENU-002 Bruschetta Trio is available and costs 15.57 USD. Category appetizers.", "related_ids": ["REST-MENU-002"]}
+{"id": "REST-FACT-092", "topic": "main courses", "fact": "Menu item REST-MENU-031 Lemon Herb Chicken is available and costs 17.75 USD. Category main courses.", "related_ids": ["REST-MENU-031"]}
+{"id": "REST-FACT-093", "topic": "main courses", "fact": "Menu item REST-MENU-033 Eggplant Parmesan is available and costs 24.67 USD. Category main courses.", "related_ids": ["REST-MENU-033"]}
+{"id": "REST-FACT-094", "topic": "soups", "fact": "Menu item REST-MENU-010 Chicken Noodle Soup is available and costs 11.94 USD. Category soups.", "related_ids": ["REST-MENU-010"]}
+{"id": "REST-FACT-095", "topic": "burgers", "fact": "Menu item REST-MENU-013 Veggie Burger is available and costs 19.36 USD. Category burgers.", "related_ids": ["REST-MENU-013"]}
+{"id": "REST-FACT-096", "topic": "pasta", "fact": "Menu item REST-MENU-022 Pesto Pasta is available and costs 12.13 USD. Category pasta.", "related_ids": ["REST-MENU-022"]}
+{"id": "REST-FACT-097", "topic": "main courses", "fact": "Menu item REST-MENU-031 Lemon Herb Chicken is available and costs 17.75 USD. Category main courses.", "related_ids": ["REST-MENU-031"]}
+{"id": "REST-FACT-098", "topic": "desserts", "fact": "Menu item REST-MENU-034 Chocolate Lava Cake is available and costs 26.78 USD. Category desserts.", "related_ids": ["REST-MENU-034"]}
+{"id": "REST-FACT-099", "topic": "pasta", "fact": "Menu item REST-MENU-020 Fettuccine Alfredo is seasonal and costs 12.73 USD. Category pasta.", "related_ids": ["REST-MENU-020"]}
+{"id": "REST-FACT-100", "topic": "pasta", "fact": "Menu item REST-MENU-021 Penne Arrabbiata is available and costs 8.86 USD. Category pasta.", "related_ids": ["REST-MENU-021"]}
+{"id": "REST-FACT-101", "topic": "soups", "fact": "Menu item REST-MENU-010 Chicken Noodle Soup is available and costs 11.94 USD. Category soups.", "related_ids": ["REST-MENU-010"]}
+{"id": "REST-FACT-102", "topic": "salads", "fact": "Menu item REST-MENU-007 Quinoa Bowl is available and costs 8.75 USD. Category salads.", "related_ids": ["REST-MENU-007"]}
+{"id": "REST-FACT-103", "topic": "desserts", "fact": "Menu item REST-MENU-034 Chocolate Lava Cake is available and costs 26.78 USD. Category desserts.", "related_ids": ["REST-MENU-034"]}
+{"id": "REST-FACT-104", "topic": "soups", "fact": "Menu item REST-MENU-009 Tomato Basil Soup is available and costs 8.07 USD. Category soups.", "related_ids": ["REST-MENU-009"]}
+{"id": "REST-FACT-105", "topic": "burgers", "fact": "Menu item REST-MENU-014 BBQ Bacon Burger is available and costs 17.5 USD. Category burgers.", "related_ids": ["REST-MENU-014"]}
+{"id": "REST-FACT-106", "topic": "appetizers", "fact": "Menu item REST-MENU-003 Spinach Artichoke Dip is available and costs 6.68 USD. Category appetizers.", "related_ids": ["REST-MENU-003"]}
+{"id": "REST-FACT-107", "topic": "main courses", "fact": "Menu item REST-MENU-030 Grilled Salmon is available and costs 13.11 USD. Category main courses.", "related_ids": ["REST-MENU-030"]}
+{"id": "REST-FACT-108", "topic": "rice dishes", "fact": "Menu item REST-MENU-025 Teriyaki Rice Bowl is available and costs 11.58 USD. Category rice dishes.", "related_ids": ["REST-MENU-025"]}
+{"id": "REST-FACT-109", "topic": "desserts", "fact": "Menu item REST-MENU-034 Chocolate Lava Cake is available and costs 26.78 USD. Category desserts.", "related_ids": ["REST-MENU-034"]}
+{"id": "REST-FACT-110", "topic": "salads", "fact": "Menu item REST-MENU-008 Caprese Salad is available and costs 13.35 USD. Category salads.", "related_ids": ["REST-MENU-008"]}
+{"id": "REST-FACT-111", "topic": "appetizers", "fact": "Menu item REST-MENU-001 Crispy Garlic Bread is available and costs 20.38 USD. Category appetizers.", "related_ids": ["REST-MENU-001"]}
+{"id": "REST-FACT-112", "topic": "pasta", "fact": "Menu item REST-MENU-020 Fettuccine Alfredo is seasonal and costs 12.73 USD. Category pasta.", "related_ids": ["REST-MENU-020"]}
+{"id": "REST-FACT-113", "topic": "appetizers", "fact": "Menu item REST-MENU-003 Spinach Artichoke Dip is available and costs 6.68 USD. Category appetizers.", "related_ids": ["REST-MENU-003"]}
+{"id": "REST-FACT-114", "topic": "beverages", "fact": "Menu item REST-MENU-039 Iced Tea is available and costs 8.08 USD. Category beverages.", "related_ids": ["REST-MENU-039"]}
+{"id": "REST-FACT-115", "topic": "salads", "fact": "Menu item REST-MENU-006 Greek Salad is available and costs 20.51 USD. Category salads.", "related_ids": ["REST-MENU-006"]}
+{"id": "REST-FACT-116", "topic": "pasta", "fact": "Menu item REST-MENU-022 Pesto Pasta is available and costs 12.13 USD. Category pasta.", "related_ids": ["REST-MENU-022"]}
+{"id": "REST-FACT-117", "topic": "main courses", "fact": "Menu item REST-MENU-030 Grilled Salmon is available and costs 13.11 USD. Category main courses.", "related_ids": ["REST-MENU-030"]}
+{"id": "REST-FACT-118", "topic": "appetizers", "fact": "Menu item REST-MENU-003 Spinach Artichoke Dip is available and costs 6.68 USD. Category appetizers.", "related_ids": ["REST-MENU-003"]}
+{"id": "REST-FACT-119", "topic": "salads", "fact": "Menu item REST-MENU-007 Quinoa Bowl is available and costs 8.75 USD. Category salads.", "related_ids": ["REST-MENU-007"]}
+{"id": "REST-FACT-120", "topic": "desserts", "fact": "Menu item REST-MENU-034 Chocolate Lava Cake is available and costs 26.78 USD. Category desserts.", "related_ids": ["REST-MENU-034"]}

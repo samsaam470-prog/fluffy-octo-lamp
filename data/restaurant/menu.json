@@ -1,0 +1,742 @@
+[
+  {
+    "id": "REST-MENU-001",
+    "name": "Crispy Garlic Bread",
+    "category": "appetizers",
+    "price": 20.38,
+    "currency": "USD",
+    "ingredients": [
+      "mushroom",
+      "pepper",
+      "flour",
+      "lemon",
+      "beef",
+      "lettuce"
+    ],
+    "description": "Delicious Crispy Garlic Bread prepared fresh at Maple Table Kitchen. A popular appetizers choice.",
+    "dietary_info": [],
+    "availability": "available"
+  },
+  {
+    "id": "REST-MENU-002",
+    "name": "Bruschetta Trio",
+    "category": "appetizers",
+    "price": 15.57,
+    "currency": "USD",
+    "ingredients": [
+      "beef",
+      "tomato",
+      "flour",
+      "mushroom"
+    ],
+    "description": "Delicious Bruschetta Trio prepared fresh at Maple Table Kitchen. A popular appetizers choice.",
+    "dietary_info": [
+      "vegetarian",
+      "vegan"
+    ],
+    "availability": "available"
+  },
+  {
+    "id": "REST-MENU-003",
+    "name": "Spinach Artichoke Dip",
+    "category": "appetizers",
+    "price": 6.68,
+    "currency": "USD",
+    "ingredients": [
+      "rice",
+      "olive oil",
+      "beef",
+      "tomato",
+      "garlic",
+      "lemon"
+    ],
+    "description": "Delicious Spinach Artichoke Dip prepared fresh at Maple Table Kitchen. A popular appetizers choice.",
+    "dietary_info": [],
+    "availability": "available"
+  },
+  {
+    "id": "REST-MENU-004",
+    "name": "Chicken Wings",
+    "category": "appetizers",
+    "price": 25.91,
+    "currency": "USD",
+    "ingredients": [
+      "garlic",
+      "chicken",
+      "basil",
+      "pasta",
+      "pepper",
+      "lemon"
+    ],
+    "description": "Delicious Chicken Wings prepared fresh at Maple Table Kitchen. A popular appetizers choice.",
+    "dietary_info": [
+      "vegetarian"
+    ],
+    "availability": "available"
+  },
+  {
+    "id": "REST-MENU-005",
+    "name": "Caesar Salad",
+    "category": "salads",
+    "price": 17.87,
+    "currency": "USD",
+    "ingredients": [
+      "beef",
+      "pepper",
+      "pasta",
+      "mushroom",
+      "lemon"
+    ],
+    "description": "Delicious Caesar Salad prepared fresh at Maple Table Kitchen. A popular salads choice.",
+    "dietary_info": [
+      "vegan"
+    ],
+    "availability": "available"
+  },
+  {
+    "id": "REST-MENU-006",
+    "name": "Greek Salad",
+    "category": "salads",
+    "price": 20.51,
+    "currency": "USD",
+    "ingredients": [
+      "beef",
+      "pasta",
+      "onion",
+      "olive oil",
+      "chicken",
+      "lettuce"
+    ],
+    "description": "Delicious Greek Salad prepared fresh at Maple Table Kitchen. A popular salads choice.",
+    "dietary_info": [],
+    "availability": "available"
+  },
+  {
+    "id": "REST-MENU-007",
+    "name": "Quinoa Bowl",
+    "category": "salads",
+    "price": 8.75,
+    "currency": "USD",
+    "ingredients": [
+      "basil",
+      "pasta",
+      "olive oil",
+      "flour",
+      "tomato"
+    ],
+    "description": "Delicious Quinoa Bowl prepared fresh at Maple Table Kitchen. A popular salads choice.",
+    "dietary_info": [],
+    "availability": "available"
+  },
+  {
+    "id": "REST-MENU-008",
+    "name": "Caprese Salad",
+    "category": "salads",
+    "price": 13.35,
+    "currency": "USD",
+    "ingredients": [
+      "lettuce",
+      "olive oil",
+      "pasta",
+      "tomato",
+      "lemon",
+      "cheese"
+    ],
+    "description": "Delicious Caprese Salad prepared fresh at Maple Table Kitchen. A popular salads choice.",
+    "dietary_info": [
+      "vegetarian",
+      "vegan"
+    ],
+    "availability": "available"
+  },
+  {
+    "id": "REST-MENU-009",
+    "name": "Tomato Basil Soup",
+    "category": "soups",
+    "price": 8.07,
+    "currency": "USD",
+    "ingredients": [
+      "basil",
+      "chicken",
+      "beef",
+      "garlic",
+      "tomato",
+      "cheese"
+    ],
+    "description": "Delicious Tomato Basil Soup prepared fresh at Maple Table Kitchen. A popular soups choice.",
+    "dietary_info": [
+      "vegetarian"
+    ],
+    "availability": "available"
+  },
+  {
+    "id": "REST-MENU-010",
+    "name": "Chicken Noodle Soup",
+    "category": "soups",
+    "price": 11.94,
+    "currency": "USD",
+    "ingredients": [
+      "chicken",
+      "olive oil",
+      "pasta"
+    ],
+    "description": "Delicious Chicken Noodle Soup prepared fresh at Maple Table Kitchen. A popular soups choice.",
+    "dietary_info": [
+      "vegetarian",
+      "gluten-free option"
+    ],
+    "availability": "available"
+  },
+  {
+    "id": "REST-MENU-011",
+    "name": "Mushroom Soup",
+    "category": "soups",
+    "price": 21.49,
+    "currency": "USD",
+    "ingredients": [
+      "lemon",
+      "lettuce",
+      "basil",
+      "pepper",
+      "tomato"
+    ],
+    "description": "Delicious Mushroom Soup prepared fresh at Maple Table Kitchen. A popular soups choice.",
+    "dietary_info": [
+      "vegetarian"
+    ],
+    "availability": "available"
+  },
+  {
+    "id": "REST-MENU-012",
+    "name": "Classic Beef Burger",
+    "category": "burgers",
+    "price": 13.07,
+    "currency": "USD",
+    "ingredients": [
+      "lemon",
+      "tomato",
+      "pepper",
+      "chicken",
+      "cheese"
+    ],
+    "description": "Delicious Classic Beef Burger prepared fresh at Maple Table Kitchen. A popular burgers choice.",
+    "dietary_info": [],
+    "availability": "available"
+  },
+  {
+    "id": "REST-MENU-013",
+    "name": "Veggie Burger",
+    "category": "burgers",
+    "price": 19.36,
+    "currency": "USD",
+    "ingredients": [
+      "rice",
+      "chicken",
+      "tomato",
+      "lemon",
+      "onion",
+      "olive oil"
+    ],
+    "description": "Delicious Veggie Burger prepared fresh at Maple Table Kitchen. A popular burgers choice.",
+    "dietary_info": [
+      "vegetarian",
+      "gluten-free option"
+    ],
+    "availability": "available"
+  },
+  {
+    "id": "REST-MENU-014",
+    "name": "BBQ Bacon Burger",
+    "category": "burgers",
+    "price": 17.5,
+    "currency": "USD",
+    "ingredients": [
+      "lemon",
+      "rice",
+      "pepper",
+      "tomato",
+      "pasta"
+    ],
+    "description": "Delicious BBQ Bacon Burger prepared fresh at Maple Table Kitchen. A popular burgers choice.",
+    "dietary_info": [],
+    "availability": "available"
+  },
+  {
+    "id": "REST-MENU-015",
+    "name": "Mushroom Swiss Burger",
+    "category": "burgers",
+    "price": 17.23,
+    "currency": "USD",
+    "ingredients": [
+      "mushroom",
+      "rice",
+      "pepper",
+      "lettuce",
+      "olive oil"
+    ],
+    "description": "Delicious Mushroom Swiss Burger prepared fresh at Maple Table Kitchen. A popular burgers choice.",
+    "dietary_info": [
+      "vegetarian"
+    ],
+    "availability": "available"
+  },
+  {
+    "id": "REST-MENU-016",
+    "name": "Turkey Club Sandwich",
+    "category": "sandwiches",
+    "price": 12.02,
+    "currency": "USD",
+    "ingredients": [
+      "olive oil",
+      "pasta",
+      "lemon"
+    ],
+    "description": "Delicious Turkey Club Sandwich prepared fresh at Maple Table Kitchen. A popular sandwiches choice.",
+    "dietary_info": [],
+    "availability": "available"
+  },
+  {
+    "id": "REST-MENU-017",
+    "name": "Grilled Cheese Deluxe",
+    "category": "sandwiches",
+    "price": 18.46,
+    "currency": "USD",
+    "ingredients": [
+      "pasta",
+      "olive oil",
+      "beef",
+      "onion",
+      "mushroom"
+    ],
+    "description": "Delicious Grilled Cheese Deluxe prepared fresh at Maple Table Kitchen. A popular sandwiches choice.",
+    "dietary_info": [],
+    "availability": "available"
+  },
+  {
+    "id": "REST-MENU-018",
+    "name": "Chicken Pesto Panini",
+    "category": "sandwiches",
+    "price": 18.42,
+    "currency": "USD",
+    "ingredients": [
+      "tomato",
+      "rice",
+      "pepper",
+      "mushroom",
+      "garlic",
+      "basil"
+    ],
+    "description": "Delicious Chicken Pesto Panini prepared fresh at Maple Table Kitchen. A popular sandwiches choice.",
+    "dietary_info": [
+      "vegetarian"
+    ],
+    "availability": "available"
+  },
+  {
+    "id": "REST-MENU-019",
+    "name": "Spaghetti Bolognese",
+    "category": "pasta",
+    "price": 13.56,
+    "currency": "USD",
+    "ingredients": [
+      "pepper",
+      "mushroom",
+      "garlic"
+    ],
+    "description": "Delicious Spaghetti Bolognese prepared fresh at Maple Table Kitchen. A popular pasta choice.",
+    "dietary_info": [
+      "gluten-free option"
+    ],
+    "availability": "available"
+  },
+  {
+    "id": "REST-MENU-020",
+    "name": "Fettuccine Alfredo",
+    "category": "pasta",
+    "price": 12.73,
+    "currency": "USD",
+    "ingredients": [
+      "pepper",
+      "lettuce",
+      "cheese",
+      "rice",
+      "mushroom",
+      "pasta"
+    ],
+    "description": "Delicious Fettuccine Alfredo prepared fresh at Maple Table Kitchen. A popular pasta choice.",
+    "dietary_info": [
+      "vegan"
+    ],
+    "availability": "seasonal"
+  },
+  {
+    "id": "REST-MENU-021",
+    "name": "Penne Arrabbiata",
+    "category": "pasta",
+    "price": 8.86,
+    "currency": "USD",
+    "ingredients": [
+      "cheese",
+      "tomato",
+      "onion",
+      "pepper"
+    ],
+    "description": "Delicious Penne Arrabbiata prepared fresh at Maple Table Kitchen. A popular pasta choice.",
+    "dietary_info": [
+      "vegetarian"
+    ],
+    "availability": "available"
+  },
+  {
+    "id": "REST-MENU-022",
+    "name": "Pesto Pasta",
+    "category": "pasta",
+    "price": 12.13,
+    "currency": "USD",
+    "ingredients": [
+      "chicken",
+      "onion",
+      "pasta",
+      "cheese",
+      "tomato"
+    ],
+    "description": "Delicious Pesto Pasta prepared fresh at Maple Table Kitchen. A popular pasta choice.",
+    "dietary_info": [
+      "vegetarian"
+    ],
+    "availability": "available"
+  },
+  {
+    "id": "REST-MENU-023",
+    "name": "Chicken Fried Rice",
+    "category": "rice dishes",
+    "price": 8.26,
+    "currency": "USD",
+    "ingredients": [
+      "lettuce",
+      "mushroom",
+      "pasta"
+    ],
+    "description": "Delicious Chicken Fried Rice prepared fresh at Maple Table Kitchen. A popular rice dishes choice.",
+    "dietary_info": [
+      "vegetarian"
+    ],
+    "availability": "available"
+  },
+  {
+    "id": "REST-MENU-024",
+    "name": "Veggie Fried Rice",
+    "category": "rice dishes",
+    "price": 24.62,
+    "currency": "USD",
+    "ingredients": [
+      "mushroom",
+      "tomato",
+      "pasta",
+      "cheese",
+      "beef"
+    ],
+    "description": "Delicious Veggie Fried Rice prepared fresh at Maple Table Kitchen. A popular rice dishes choice.",
+    "dietary_info": [],
+    "availability": "available"
+  },
+  {
+    "id": "REST-MENU-025",
+    "name": "Teriyaki Rice Bowl",
+    "category": "rice dishes",
+    "price": 11.58,
+    "currency": "USD",
+    "ingredients": [
+      "chicken",
+      "lemon",
+      "mushroom",
+      "pepper",
+      "flour",
+      "onion"
+    ],
+    "description": "Delicious Teriyaki Rice Bowl prepared fresh at Maple Table Kitchen. A popular rice dishes choice.",
+    "dietary_info": [
+      "vegetarian",
+      "gluten-free option"
+    ],
+    "availability": "available"
+  },
+  {
+    "id": "REST-MENU-026",
+    "name": "Margherita Pizza",
+    "category": "pizza",
+    "price": 8.82,
+    "currency": "USD",
+    "ingredients": [
+      "pepper",
+      "olive oil",
+      "pasta",
+      "lemon",
+      "garlic"
+    ],
+    "description": "Delicious Margherita Pizza prepared fresh at Maple Table Kitchen. A popular pizza choice.",
+    "dietary_info": [
+      "vegetarian"
+    ],
+    "availability": "available"
+  },
+  {
+    "id": "REST-MENU-027",
+    "name": "Pepperoni Pizza",
+    "category": "pizza",
+    "price": 13.93,
+    "currency": "USD",
+    "ingredients": [
+      "mushroom",
+      "onion",
+      "olive oil",
+      "lettuce"
+    ],
+    "description": "Delicious Pepperoni Pizza prepared fresh at Maple Table Kitchen. A popular pizza choice.",
+    "dietary_info": [
+      "vegetarian",
+      "gluten-free option"
+    ],
+    "availability": "available"
+  },
+  {
+    "id": "REST-MENU-028",
+    "name": "Veggie Supreme Pizza",
+    "category": "pizza",
+    "price": 15.57,
+    "currency": "USD",
+    "ingredients": [
+      "flour",
+      "pasta",
+      "lettuce",
+      "onion",
+      "chicken",
+      "lemon"
+    ],
+    "description": "Delicious Veggie Supreme Pizza prepared fresh at Maple Table Kitchen. A popular pizza choice.",
+    "dietary_info": [],
+    "availability": "available"
+  },
+  {
+    "id": "REST-MENU-029",
+    "name": "BBQ Chicken Pizza",
+    "category": "pizza",
+    "price": 14.42,
+    "currency": "USD",
+    "ingredients": [
+      "olive oil",
+      "garlic",
+      "tomato",
+      "pasta",
+      "rice",
+      "beef"
+    ],
+    "description": "Delicious BBQ Chicken Pizza prepared fresh at Maple Table Kitchen. A popular pizza choice.",
+    "dietary_info": [
+      "gluten-free option"
+    ],
+    "availability": "available"
+  },
+  {
+    "id": "REST-MENU-030",
+    "name": "Grilled Salmon",
+    "category": "main courses",
+    "price": 13.11,
+    "currency": "USD",
+    "ingredients": [
+      "chicken",
+      "flour",
+      "lettuce",
+      "tomato"
+    ],
+    "description": "Delicious Grilled Salmon prepared fresh at Maple Table Kitchen. A popular main courses choice.",
+    "dietary_info": [
+      "vegetarian",
+      "vegan",
+      "gluten-free option"
+    ],
+    "availability": "available"
+  },
+  {
+    "id": "REST-MENU-031",
+    "name": "Lemon Herb Chicken",
+    "category": "main courses",
+    "price": 17.75,
+    "currency": "USD",
+    "ingredients": [
+      "cheese",
+      "tomato",
+      "olive oil",
+      "lettuce"
+    ],
+    "description": "Delicious Lemon Herb Chicken prepared fresh at Maple Table Kitchen. A popular main courses choice.",
+    "dietary_info": [
+      "gluten-free option"
+    ],
+    "availability": "available"
+  },
+  {
+    "id": "REST-MENU-032",
+    "name": "Steak Frites",
+    "category": "main courses",
+    "price": 12.14,
+    "currency": "USD",
+    "ingredients": [
+      "cheese",
+      "onion",
+      "garlic",
+      "flour",
+      "chicken"
+    ],
+    "description": "Delicious Steak Frites prepared fresh at Maple Table Kitchen. A popular main courses choice.",
+    "dietary_info": [
+      "vegetarian",
+      "gluten-free option"
+    ],
+    "availability": "available"
+  },
+  {
+    "id": "REST-MENU-033",
+    "name": "Eggplant Parmesan",
+    "category": "main courses",
+    "price": 24.67,
+    "currency": "USD",
+    "ingredients": [
+      "onion",
+      "pepper",
+      "beef"
+    ],
+    "description": "Delicious Eggplant Parmesan prepared fresh at Maple Table Kitchen. A popular main courses choice.",
+    "dietary_info": [
+      "vegan"
+    ],
+    "availability": "available"
+  },
+  {
+    "id": "REST-MENU-034",
+    "name": "Chocolate Lava Cake",
+    "category": "desserts",
+    "price": 26.78,
+    "currency": "USD",
+    "ingredients": [
+      "lettuce",
+      "flour",
+      "garlic",
+      "rice",
+      "cheese"
+    ],
+    "description": "Delicious Chocolate Lava Cake prepared fresh at Maple Table Kitchen. A popular desserts choice.",
+    "dietary_info": [
+      "vegetarian"
+    ],
+    "availability": "available"
+  },
+  {
+    "id": "REST-MENU-035",
+    "name": "Cheesecake",
+    "category": "desserts",
+    "price": 6.75,
+    "currency": "USD",
+    "ingredients": [
+      "tomato",
+      "beef",
+      "mushroom",
+      "lemon",
+      "lettuce",
+      "rice"
+    ],
+    "description": "Delicious Cheesecake prepared fresh at Maple Table Kitchen. A popular desserts choice.",
+    "dietary_info": [],
+    "availability": "available"
+  },
+  {
+    "id": "REST-MENU-036",
+    "name": "Tiramisu",
+    "category": "desserts",
+    "price": 21.32,
+    "currency": "USD",
+    "ingredients": [
+      "olive oil",
+      "rice",
+      "onion",
+      "flour",
+      "mushroom",
+      "cheese"
+    ],
+    "description": "Delicious Tiramisu prepared fresh at Maple Table Kitchen. A popular desserts choice.",
+    "dietary_info": [],
+    "availability": "available"
+  },
+  {
+    "id": "REST-MENU-037",
+    "name": "Fruit Parfait",
+    "category": "desserts",
+    "price": 8.32,
+    "currency": "USD",
+    "ingredients": [
+      "mushroom",
+      "garlic",
+      "beef"
+    ],
+    "description": "Delicious Fruit Parfait prepared fresh at Maple Table Kitchen. A popular desserts choice.",
+    "dietary_info": [
+      "gluten-free option"
+    ],
+    "availability": "available"
+  },
+  {
+    "id": "REST-MENU-038",
+    "name": "Fresh Lemonade",
+    "category": "beverages",
+    "price": 9.47,
+    "currency": "USD",
+    "ingredients": [
+      "olive oil",
+      "garlic",
+      "pepper",
+      "onion"
+    ],
+    "description": "Delicious Fresh Lemonade prepared fresh at Maple Table Kitchen. A popular beverages choice.",
+    "dietary_info": [
+      "gluten-free option"
+    ],
+    "availability": "available"
+  },
+  {
+    "id": "REST-MENU-039",
+    "name": "Iced Tea",
+    "category": "beverages",
+    "price": 8.08,
+    "currency": "USD",
+    "ingredients": [
+      "lettuce",
+      "pepper",
+      "onion",
+      "cheese",
+      "pasta",
+      "garlic"
+    ],
+    "description": "Delicious Iced Tea prepared fresh at Maple Table Kitchen. A popular beverages choice.",
+    "dietary_info": [],
+    "availability": "available"
+  },
+  {
+    "id": "REST-MENU-040",
+    "name": "Cappuccino",
+    "category": "beverages",
+    "price": 7.03,
+    "currency": "USD",
+    "ingredients": [
+      "basil",
+      "lettuce",
+      "onion",
+      "olive oil",
+      "rice"
+    ],
+    "description": "Delicious Cappuccino prepared fresh at Maple Table Kitchen. A popular beverages choice.",
+    "dietary_info": [
+      "gluten-free option"
+    ],
+    "availability": "available"
+  }
+]

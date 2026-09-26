@@ -1,0 +1,222 @@
+[
+  {
+    "id": "HVAC-SVC-001",
+    "service": "AC Inspection",
+    "description": "Comprehensive inspection of air conditioning system.",
+    "estimated_duration_minutes": 60,
+    "price": 89,
+    "price_range": "$79-$129",
+    "currency": "USD",
+    "availability": "Mon-Sat 8am-6pm",
+    "details": "Includes filter check and performance test."
+  },
+  {
+    "id": "HVAC-SVC-002",
+    "service": "AC Maintenance",
+    "description": "Preventive maintenance for AC efficiency.",
+    "estimated_duration_minutes": 90,
+    "price": 129,
+    "price_range": "$99-$159",
+    "currency": "USD",
+    "availability": "Mon-Sat",
+    "details": "Coil cleaning and refrigerant check."
+  },
+  {
+    "id": "HVAC-SVC-003",
+    "service": "AC Repair",
+    "description": "Diagnosis and repair of AC issues.",
+    "estimated_duration_minutes": 120,
+    "price": 150,
+    "price_range": "$99-$350",
+    "currency": "USD",
+    "availability": "Mon-Sat emergency",
+    "details": "Parts may be extra."
+  },
+  {
+    "id": "HVAC-SVC-004",
+    "service": "Heating Inspection",
+    "description": "Inspection of heating system before season.",
+    "estimated_duration_minutes": 60,
+    "price": 89,
+    "price_range": "$79-$129",
+    "currency": "USD",
+    "availability": "Mon-Sat",
+    "details": "Safety check included."
+  },
+  {
+    "id": "HVAC-SVC-005",
+    "service": "Heating Repair",
+    "description": "Repair of furnace or heat pump heating issues.",
+    "estimated_duration_minutes": 120,
+    "price": 160,
+    "price_range": "$99-$400",
+    "currency": "USD",
+    "availability": "Mon-Sat emergency",
+    "details": "Diagnostic fee applied."
+  },
+  {
+    "id": "HVAC-SVC-006",
+    "service": "Furnace Maintenance",
+    "description": "Tune-up for furnace efficiency and safety.",
+    "estimated_duration_minutes": 90,
+    "price": 139,
+    "price_range": "$99-$189",
+    "currency": "USD",
+    "availability": "Mon-Fri",
+    "details": "Includes combustion check."
+  },
+  {
+    "id": "HVAC-SVC-007",
+    "service": "Thermostat Service",
+    "description": "Calibration, repair or smart thermostat setup.",
+    "estimated_duration_minutes": 45,
+    "price": 75,
+    "price_range": "$59-$149",
+    "currency": "USD",
+    "availability": "Mon-Sat",
+    "details": "Includes programming help."
+  },
+  {
+    "id": "HVAC-SVC-008",
+    "service": "Duct Inspection",
+    "description": "Inspection of ductwork for leaks or blockages.",
+    "estimated_duration_minutes": 60,
+    "price": 99,
+    "price_range": "$79-$149",
+    "currency": "USD",
+    "availability": "Mon-Fri",
+    "details": "Visual and airflow testing."
+  },
+  {
+    "id": "HVAC-SVC-009",
+    "service": "Duct Cleaning",
+    "description": "Professional cleaning of air ducts.",
+    "estimated_duration_minutes": 180,
+    "price": 299,
+    "price_range": "$199-$399",
+    "currency": "USD",
+    "availability": "Mon-Fri",
+    "details": "Improves air quality."
+  },
+  {
+    "id": "HVAC-SVC-010",
+    "service": "Filter Replacement",
+    "description": "Replacement of HVAC filters.",
+    "estimated_duration_minutes": 20,
+    "price": 45,
+    "price_range": "$29-$89",
+    "currency": "USD",
+    "availability": "Mon-Sat",
+    "details": "Filter cost included."
+  },
+  {
+    "id": "HVAC-SVC-011",
+    "service": "Installation Consultation - AC",
+    "description": "Consultation for new AC installation.",
+    "estimated_duration_minutes": 60,
+    "price": 0,
+    "price_range": "Free consultation",
+    "currency": "USD",
+    "availability": "Mon-Fri",
+    "details": "Estimate provided."
+  },
+  {
+    "id": "HVAC-SVC-012",
+    "service": "Installation Consultation - Heating",
+    "description": "Consultation for heating system installation.",
+    "estimated_duration_minutes": 60,
+    "price": 0,
+    "price_range": "Free consultation",
+    "currency": "USD",
+    "availability": "Mon-Fri",
+    "details": "Estimate provided."
+  },
+  {
+    "id": "HVAC-SVC-013",
+    "service": "Emergency HVAC Service",
+    "description": "24/7 emergency response for critical failures.",
+    "estimated_duration_minutes": 90,
+    "price": 199,
+    "price_range": "$149-$399",
+    "currency": "USD",
+    "availability": "24/7",
+    "details": "Priority dispatch."
+  },
+  {
+    "id": "HVAC-SVC-014",
+    "service": "Ventilation Inspection",
+    "description": "Check of ventilation system performance.",
+    "estimated_duration_minutes": 60,
+    "price": 89,
+    "price_range": "$79-$149",
+    "currency": "USD",
+    "availability": "Mon-Fri",
+    "details": "Airflow and exhaust check."
+  },
+  {
+    "id": "HVAC-SVC-015",
+    "service": "Indoor Air Quality Assessment",
+    "description": "Assessment of air quality and filtration options.",
+    "estimated_duration_minutes": 75,
+    "price": 119,
+    "price_range": "$89-$199",
+    "currency": "USD",
+    "availability": "Mon-Fri",
+    "details": "Includes recommendations."
+  },
+  {
+    "id": "HVAC-SVC-016",
+    "service": "Heat Pump Service",
+    "description": "Maintenance and repair for heat pumps.",
+    "estimated_duration_minutes": 90,
+    "price": 149,
+    "price_range": "$99-$299",
+    "currency": "USD",
+    "availability": "Mon-Sat",
+    "details": "Seasonal efficiency check."
+  },
+  {
+    "id": "HVAC-SVC-017",
+    "service": "Refrigerant Check",
+    "description": "Check and recharge refrigerant levels.",
+    "estimated_duration_minutes": 45,
+    "price": 120,
+    "price_range": "$79-$250",
+    "currency": "USD",
+    "availability": "Mon-Sat",
+    "details": "EPA compliant handling."
+  },
+  {
+    "id": "HVAC-SVC-018",
+    "service": "Blower Motor Service",
+    "description": "Inspection and service of blower motor.",
+    "estimated_duration_minutes": 75,
+    "price": 140,
+    "price_range": "$89-$280",
+    "currency": "USD",
+    "availability": "Mon-Fri",
+    "details": "Noise and airflow check."
+  },
+  {
+    "id": "HVAC-SVC-019",
+    "service": "Energy Efficiency Audit",
+    "description": "Audit of HVAC energy usage and savings tips.",
+    "estimated_duration_minutes": 90,
+    "price": 99,
+    "price_range": "$79-$149",
+    "currency": "USD",
+    "availability": "Mon-Fri",
+    "details": "Report provided."
+  },
+  {
+    "id": "HVAC-SVC-020",
+    "service": "Seasonal Tune-Up",
+    "description": "Combined AC and heating seasonal tune-up package.",
+    "estimated_duration_minutes": 120,
+    "price": 189,
+    "price_range": "$149-$249",
+    "currency": "USD",
+    "availability": "Mon-Sat",
+    "details": "Best value maintenance."
+  }
+]
